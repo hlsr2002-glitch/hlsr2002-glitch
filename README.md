@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Currently transitioning into 3D and interactive development, actively building skills in Unity and real-time applications.
 
 * 🌍  I'm based in Lisbon
-* 🖥️  See my portfolio at [Portfolio featuring some of the work I did during my internships at Siemens SA]([http://drive.google.com/drive/folders/1hSDi8IqLkngG1mjgN9kK88Wfrfu2mglT?usp=sharing](https://drive.google.com/drive/folders/1hSDi8IqLkngG1mjgN9kK88Wfrfu2mglT?usp=drive_link))
+* 🖥️  See my portfolio at [Portfolio featuring some of the work I did during my internships at Siemens SA](http://drive.google.com/drive/folders/1hSDi8IqLkngG1mjgN9kK88Wfrfu2mglT?usp=drive_link)
 * ✉️  You can contact me at [hlsr2002@gmail.com](mailto:hlsr2002@gmail.com)
 
 <p align="left">
